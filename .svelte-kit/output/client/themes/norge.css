@@ -1,0 +1,51 @@
+/* Norge Theme - Inspired by Norwegian nature and modern UI design */
+:root {
+  /* Background Colors - Deep blue/purple gradient tones */
+  --window-bg: rgba(16, 37, 47, 1.0);
+  --window-bg-light: rgba(13, 29, 38, 1.0);
+  --window-bg-lighter: rgba(22, 46, 57, 1.0);
+  --card-bg: rgb(23, 50, 62);
+  --hover-bg: rgb(102, 196, 205);
+  --input-bg: rgb(33, 63, 76);
+  
+  /* Text Colors */
+  --text-primary: #e8ecf4;
+  --text-secondary: #b8c2d8;
+  --text-muted: #8892a8;
+  
+  /* Border Colors */
+  --border-color: rgba(158, 171, 200, 0.5);
+  --border-light: rgba(221, 225, 235, 0.5);
+  --border-hover: rgba(184, 194, 216, 0.25);
+  
+  /* Accent Colors - Bright blue accent */
+  --accent-color: #2c95c3;
+  --accent-color-light: rgba(107, 140, 255, 0.15);
+  --accent-hover: #6fc3e8;
+  --accent-color-2: #ff6b6b;
+  --accent-color-2-hover: #ffa7a7;
+  
+  /* Status Colors */
+  --status-success: #5ac97d;
+  --status-success-dark: #4ab96d;
+  --status-success-light: rgba(90, 201, 125, 0.2);
+  --status-error: #ff6b7d;
+  --status-error-dark: #ff5b6d;
+  --status-error-light: rgba(255, 107, 125, 0.2);
+  
+  /* Button Specific */
+  --button-radius: 6px;
+  --button-confirm-bg: #5ac999;
+  --button-confirm-hover: #6ad9b2;
+  --button-cancel-bg: #8892a8;
+  --button-cancel-hover: #98a2b8;
+  --button-delete-bg: #ff6b7d;
+  --button-delete-hover: #ff7b8d;
+  --button-text-light: #ffffff;
+  --button-text-dark: #000000;
+  
+  /* Shadows - Darker shadows for depth */
+  --shadow-small: 0 2px 8px rgba(20, 30, 48, 0.3);
+  --shadow-medium: 0 4px 16px rgba(20, 30, 48, 0.4);
+  --shadow-large: 0 8px 32px rgba(20, 30, 48, 0.5);
+}

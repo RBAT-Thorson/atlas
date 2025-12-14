@@ -1,0 +1,51 @@
+/* Dark Theme */
+:root {
+  /* Background Colors */
+  --window-bg: #1e1e1e;
+  --window-bg-light: #252525;
+  --window-bg-lighter: #2d2d2d;
+  --card-bg: #2d2d2d;
+  --hover-bg: #3a3a3a;
+  --input-bg: rgba(255, 255, 255, 0.05);
+  
+  /* Text Colors */
+  --text-primary: #e0e0e0;
+  --text-secondary: #b0b0b0;
+  --text-muted: #808080;
+  
+  /* Border Colors */
+  --border-color: rgba(255, 255, 255, 0.1);
+  --border-light: #444444;
+  --border-hover: rgba(255, 255, 255, 0.2);
+  
+  /* Accent Colors */
+  --accent-color: #0A84FF;
+  --accent-color-light: rgba(10, 132, 255, 0.15);
+  --accent-hover: #409CFF;
+  --accent-color-2: #BF5AF2;
+  --accent-color-2-hover: #A950D5;
+  
+  /* Button Specific */
+  --button-radius: 6px;
+  --button-confirm-bg: #4caf50;
+  --button-confirm-hover: #5cbd5c;
+  --button-cancel-bg: #8e8e93;
+  --button-cancel-hover: #a0a0a5;
+  --button-delete-bg: #ef5350;
+  --button-delete-hover: #f66462;
+  --button-text-light: #ffffff;
+  --button-text-dark: #000000;
+  
+  /* Status Colors */
+  --status-success: #4caf50;
+  --status-success-dark: #1b5e20;
+  --status-success-light: #2a4a2a;
+  --status-error: #ef5350;
+  --status-error-dark: #b71c1c;
+  --status-error-light: #4a2a2a;
+  
+  /* Shadows */
+  --shadow-small: 0 2px 8px rgba(0, 0, 0, 0.4);
+  --shadow-medium: 0 2px 12px rgba(0, 0, 0, 0.5);
+  --shadow-large: 0 8px 32px rgba(0, 0, 0, 0.7);
+}
